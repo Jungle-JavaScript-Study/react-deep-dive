@@ -3,8 +3,8 @@ import re
 
 def extract_number(filename):
     """Extract numbers from filenames for sorting."""
-    match = re.match(r"(\d+)", filename)
-    return int(match.group(1)) if match else float('inf')
+    match = re.search(r"(\d+\.\d+|\d+)", filename)
+    return float(match.group(1)) if match else float('inf')
 
 def generate_markdown_link(path, base_url):
     """Generate GitHub markdown link for a given file path."""
@@ -46,7 +46,7 @@ def update_readme_section(readme_path, new_content, start_marker, end_marker):
         file.truncate()
 
 # Configuration
-base_url = "https://github.com/your-username/your-repository/blob/main/"
+base_url = "https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/"
 directory_path = './'  # Adjust as needed
 readme_path = 'README.md'  # Path to the README file
 start_marker = "<!-- FOLDER_STRUCTURE_START -->"
@@ -54,4 +54,5 @@ end_marker = "<!-- FOLDER_STRUCTURE_END -->"
 
 # Generate folder structure and update README.md
 folder_structure = list_files(directory_path, base_url)
+print(folder_structure)
 update_readme_section(readme_path, folder_structure, start_marker, end_marker)
