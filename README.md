@@ -12,5 +12,5 @@
     - [1.2 함수.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/01%20리액트%20개발을%20위해%20꼭%20알아야%20할%20자바스크립트/1.2%20함수.md)
     - [1.3 클래스.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/01%20리액트%20개발을%20위해%20꼭%20알아야%20할%20자바스크립트/1.3%20클래스.md)
     - [1.4 클로저.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/01%20리액트%20개발을%20위해%20꼭%20알아야%20할%20자바스크립트/1.4%20클로저.md)
-
+test
 <!-- FOLDER_STRUCTURE_END -->
