@@ -13,5 +13,6 @@
     - [1.3 클래스.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/01%20리액트%20개발을%20위해%20꼭%20알아야%20할%20자바스크립트/1.3%20클래스.md)
     - [1.4 클로저.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/01%20리액트%20개발을%20위해%20꼭%20알아야%20할%20자바스크립트/1.4%20클로저.md)
     - [1.5 이벤트 루프와 비동기 통신의 이해.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/01%20리액트%20개발을%20위해%20꼭%20알아야%20할%20자바스크립트/1.5%20이벤트%20루프와%20비동기%20통신의%20이해.md)
+    - [1.6 리액트에서 자주 사용하는 자바스크립트 문법.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/01%20리액트%20개발을%20위해%20꼭%20알아야%20할%20자바스크립트/1.6%20리액트에서%20자주%20사용하는%20자바스크립트%20문법.md)
 
 <!-- FOLDER_STRUCTURE_END -->
