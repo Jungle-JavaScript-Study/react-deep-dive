@@ -17,5 +17,6 @@
     - [1.7 선택이 아닌 필수, 타입스크립트](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/01%20리액트%20개발을%20위해%20꼭%20알아야%20할%20자바스크립트/1.7%20선택이%20아닌%20필수,%20타입스크립트)
 - 02 리액트 핵심 요소 깊게 살펴보기
     - [2.1 JSX란](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/02%20리액트%20핵심%20요소%20깊게%20살펴보기/2.1%20JSX란)
+    - [2.2 가상 DOM과 리액트 파이버](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/02%20리액트%20핵심%20요소%20깊게%20살펴보기/2.2%20가상%20DOM과%20리액트%20파이버)
 
 <!-- FOLDER_STRUCTURE_END -->
