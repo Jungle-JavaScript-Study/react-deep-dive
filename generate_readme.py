@@ -1,5 +1,6 @@
 import os
 import re
+from urllib.parse import quote
 
 def extract_number(filename):
     """Extract numbers from filenames for sorting."""
@@ -8,7 +9,7 @@ def extract_number(filename):
 
 def generate_markdown_link(path, base_url):
     """Generate GitHub markdown link for a given file path."""
-    readable_path = path.replace(' ', '%20').replace('./', '')
+    readable_path = quote(path.replace('./', ''), safe='/')
     return f"[{os.path.basename(path)}]({base_url}{readable_path})"
 
 def list_files(directory, base_url, prefix=""):
