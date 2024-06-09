@@ -23,5 +23,6 @@
     - [2.5 컴포넌트와 함수의 무거운 연산을 기억해 두는 메모이제이션.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/02%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%ED%95%B5%EC%8B%AC%20%EC%9A%94%EC%86%8C%20%EA%B9%8A%EA%B2%8C%20%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0/2.5%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%99%80%20%ED%95%A8%EC%88%98%EC%9D%98%20%EB%AC%B4%EA%B1%B0%EC%9A%B4%20%EC%97%B0%EC%82%B0%EC%9D%84%20%EA%B8%B0%EC%96%B5%ED%95%B4%20%EB%91%90%EB%8A%94%20%EB%A9%94%EB%AA%A8%EC%9D%B4%EC%A0%9C%EC%9D%B4%EC%85%98.md)
 - 03 리액트 훅 깊게 살펴보기
     - [3.1 리액트의 모든 훅 파헤치기.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/03%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%ED%9B%85%20%EA%B9%8A%EA%B2%8C%20%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0/3.1%20%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%9D%98%20%EB%AA%A8%EB%93%A0%20%ED%9B%85%20%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0.md)
+    - [3.2 사용자 정의 훅과 고차 컴포넌트 중 무엇을 써야 할까?.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/03%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%ED%9B%85%20%EA%B9%8A%EA%B2%8C%20%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0/3.2%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%A0%95%EC%9D%98%20%ED%9B%85%EA%B3%BC%20%EA%B3%A0%EC%B0%A8%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EC%A4%91%20%EB%AC%B4%EC%97%87%EC%9D%84%20%EC%8D%A8%EC%95%BC%20%ED%95%A0%EA%B9%8C%3F.md)
 
 <!-- FOLDER_STRUCTURE_END -->
