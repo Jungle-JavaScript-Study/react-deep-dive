@@ -26,5 +26,6 @@
     - [3.2 사용자 정의 훅과 고차 컴포넌트 중 무엇을 써야 할까?.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/03%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%ED%9B%85%20%EA%B9%8A%EA%B2%8C%20%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0/3.2%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%A0%95%EC%9D%98%20%ED%9B%85%EA%B3%BC%20%EA%B3%A0%EC%B0%A8%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EC%A4%91%20%EB%AC%B4%EC%97%87%EC%9D%84%20%EC%8D%A8%EC%95%BC%20%ED%95%A0%EA%B9%8C%3F.md)
 - 04 서버 사이드 렌더링
     - [4.1 서버 사이드 렌더링이란?.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/04%20%EC%84%9C%EB%B2%84%20%EC%82%AC%EC%9D%B4%EB%93%9C%20%EB%A0%8C%EB%8D%94%EB%A7%81/4.1%20%EC%84%9C%EB%B2%84%20%EC%82%AC%EC%9D%B4%EB%93%9C%20%EB%A0%8C%EB%8D%94%EB%A7%81%EC%9D%B4%EB%9E%80%3F.md)
+    - [4.2 서버 사이드 렌더링을 위한 리액트 API 살펴보기.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/04%20%EC%84%9C%EB%B2%84%20%EC%82%AC%EC%9D%B4%EB%93%9C%20%EB%A0%8C%EB%8D%94%EB%A7%81/4.2%20%EC%84%9C%EB%B2%84%20%EC%82%AC%EC%9D%B4%EB%93%9C%20%EB%A0%8C%EB%8D%94%EB%A7%81%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20API%20%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0.md)
 
 <!-- FOLDER_STRUCTURE_END -->
