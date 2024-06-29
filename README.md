@@ -28,5 +28,7 @@
     - [4.1 서버 사이드 렌더링이란?.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/04%20%EC%84%9C%EB%B2%84%20%EC%82%AC%EC%9D%B4%EB%93%9C%20%EB%A0%8C%EB%8D%94%EB%A7%81/4.1%20%EC%84%9C%EB%B2%84%20%EC%82%AC%EC%9D%B4%EB%93%9C%20%EB%A0%8C%EB%8D%94%EB%A7%81%EC%9D%B4%EB%9E%80%3F.md)
     - [4.2 서버 사이드 렌더링을 위한 리액트 API 살펴보기.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/04%20%EC%84%9C%EB%B2%84%20%EC%82%AC%EC%9D%B4%EB%93%9C%20%EB%A0%8C%EB%8D%94%EB%A7%81/4.2%20%EC%84%9C%EB%B2%84%20%EC%82%AC%EC%9D%B4%EB%93%9C%20%EB%A0%8C%EB%8D%94%EB%A7%81%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20API%20%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0.md)
     - [4.3 Next.js 톺아보기.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/04%20%EC%84%9C%EB%B2%84%20%EC%82%AC%EC%9D%B4%EB%93%9C%20%EB%A0%8C%EB%8D%94%EB%A7%81/4.3%20Next.js%20%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0.md)
+- 05 리액트와 상태 관리 라이브러리
+    - [5.1 상태 관리는 왜 필요한가?.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/05%20%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%99%80%20%EC%83%81%ED%83%9C%20%EA%B4%80%EB%A6%AC%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/5.1%20%EC%83%81%ED%83%9C%20%EA%B4%80%EB%A6%AC%EB%8A%94%20%EC%99%9C%20%ED%95%84%EC%9A%94%ED%95%9C%EA%B0%80%3F.md)
 
 <!-- FOLDER_STRUCTURE_END -->
