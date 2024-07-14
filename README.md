@@ -31,5 +31,7 @@
 - 05 리액트와 상태 관리 라이브러리
     - [5.1 상태 관리는 왜 필요한가?.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/05%20%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%99%80%20%EC%83%81%ED%83%9C%20%EA%B4%80%EB%A6%AC%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/5.1%20%EC%83%81%ED%83%9C%20%EA%B4%80%EB%A6%AC%EB%8A%94%20%EC%99%9C%20%ED%95%84%EC%9A%94%ED%95%9C%EA%B0%80%3F.md)
     - [5.2 리액트 훅으로 시작하는 상태 관리.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/05%20%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%99%80%20%EC%83%81%ED%83%9C%20%EA%B4%80%EB%A6%AC%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/5.2%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%ED%9B%85%EC%9C%BC%EB%A1%9C%20%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94%20%EC%83%81%ED%83%9C%20%EA%B4%80%EB%A6%AC.md)
+- 06 리액트 개발 도구로 디버깅하기
+    - [6.3 리액트 개발 도구 활용하기.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/06%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EA%B0%9C%EB%B0%9C%20%EB%8F%84%EA%B5%AC%EB%A1%9C%20%EB%94%94%EB%B2%84%EA%B9%85%ED%95%98%EA%B8%B0/6.3%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EA%B0%9C%EB%B0%9C%20%EB%8F%84%EA%B5%AC%20%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 
 <!-- FOLDER_STRUCTURE_END -->
