@@ -33,5 +33,7 @@
     - [5.2 리액트 훅으로 시작하는 상태 관리.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/05%20%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%99%80%20%EC%83%81%ED%83%9C%20%EA%B4%80%EB%A6%AC%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/5.2%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%ED%9B%85%EC%9C%BC%EB%A1%9C%20%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94%20%EC%83%81%ED%83%9C%20%EA%B4%80%EB%A6%AC.md)
 - 06 리액트 개발 도구로 디버깅하기
     - [6.3 리액트 개발 도구 활용하기.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/06%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EA%B0%9C%EB%B0%9C%20%EB%8F%84%EA%B5%AC%EB%A1%9C%20%EB%94%94%EB%B2%84%EA%B9%85%ED%95%98%EA%B8%B0/6.3%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EA%B0%9C%EB%B0%9C%20%EB%8F%84%EA%B5%AC%20%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0.md)
+- 07 크롬 개발자 도구를 활용한 애플리케이션 분석
+    - [07장 크롬 개발자 도구를 활용한 애플리케이션 분석.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/07%20%ED%81%AC%EB%A1%AC%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EB%8F%84%EA%B5%AC%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EB%B6%84%EC%84%9D/07%EC%9E%A5%20%ED%81%AC%EB%A1%AC%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EB%8F%84%EA%B5%AC%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EB%B6%84%EC%84%9D.md)
 
 <!-- FOLDER_STRUCTURE_END -->
