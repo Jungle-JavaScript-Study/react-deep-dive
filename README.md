@@ -35,5 +35,7 @@
     - [6.3 리액트 개발 도구 활용하기.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/06%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EA%B0%9C%EB%B0%9C%20%EB%8F%84%EA%B5%AC%EB%A1%9C%20%EB%94%94%EB%B2%84%EA%B9%85%ED%95%98%EA%B8%B0/6.3%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EA%B0%9C%EB%B0%9C%20%EB%8F%84%EA%B5%AC%20%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 - 07 크롬 개발자 도구를 활용한 애플리케이션 분석
     - [07장 크롬 개발자 도구를 활용한 애플리케이션 분석.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/07%20%ED%81%AC%EB%A1%AC%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EB%8F%84%EA%B5%AC%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EB%B6%84%EC%84%9D/07%EC%9E%A5%20%ED%81%AC%EB%A1%AC%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EB%8F%84%EA%B5%AC%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EB%B6%84%EC%84%9D.md)
+- 08 좋은 리액트 코드 작성을 위한 환경 구축하기
+    - [8.1 좋은 리액트 코드 작성을 위한 환경 구축하기.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/08%20%EC%A2%8B%EC%9D%80%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EC%BD%94%EB%93%9C%20%EC%9E%91%EC%84%B1%EC%9D%84%20%EC%9C%84%ED%95%9C%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/8.1%20%EC%A2%8B%EC%9D%80%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EC%BD%94%EB%93%9C%20%EC%9E%91%EC%84%B1%EC%9D%84%20%EC%9C%84%ED%95%9C%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.md)
 
 <!-- FOLDER_STRUCTURE_END -->
