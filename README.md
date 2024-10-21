@@ -48,5 +48,6 @@
     - [10.2 리액트 18 버전 살펴보기.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/10%20%EB%A6%AC%EC%95%A1%ED%8A%B8%2017%EA%B3%BC%2018%EC%9D%98%20%EB%B3%80%EA%B2%BD%20%EC%82%AC%ED%95%AD%20%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0/10.2%20%EB%A6%AC%EC%95%A1%ED%8A%B8%2018%20%EB%B2%84%EC%A0%84%20%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0.md)
 - 11 Next.js 13과 리액트 18
     - [11.1 app 디렉터리의 등장.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/11%20Next.js%2013%EA%B3%BC%20%EB%A6%AC%EC%95%A1%ED%8A%B8%2018/11.1%20app%20%EB%94%94%EB%A0%89%ED%84%B0%EB%A6%AC%EC%9D%98%20%EB%93%B1%EC%9E%A5.md)
+    - [11.2 리액트 서버 컴포넌트.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/11%20Next.js%2013%EA%B3%BC%20%EB%A6%AC%EC%95%A1%ED%8A%B8%2018/11.2%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EC%84%9C%EB%B2%84%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8.md)
 
 <!-- FOLDER_STRUCTURE_END -->
