@@ -49,5 +49,6 @@
 - 11 Next.js 13과 리액트 18
     - [11.1 app 디렉터리의 등장.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/11%20Next.js%2013%EA%B3%BC%20%EB%A6%AC%EC%95%A1%ED%8A%B8%2018/11.1%20app%20%EB%94%94%EB%A0%89%ED%84%B0%EB%A6%AC%EC%9D%98%20%EB%93%B1%EC%9E%A5.md)
     - [11.2 리액트 서버 컴포넌트.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/11%20Next.js%2013%EA%B3%BC%20%EB%A6%AC%EC%95%A1%ED%8A%B8%2018/11.2%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EC%84%9C%EB%B2%84%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8.md)
+    - [11.3 Next.js에서의 리액트 서버 컴포넌트.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/11%20Next.js%2013%EA%B3%BC%20%EB%A6%AC%EC%95%A1%ED%8A%B8%2018/11.3%20Next.js%EC%97%90%EC%84%9C%EC%9D%98%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EC%84%9C%EB%B2%84%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8.md)
 
 <!-- FOLDER_STRUCTURE_END -->
