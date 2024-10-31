@@ -53,5 +53,7 @@
     - [11.4 웹팩의 대항마, 터보팩의 등장(beta).md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/11%20Next.js%2013%EA%B3%BC%20%EB%A6%AC%EC%95%A1%ED%8A%B8%2018/11.4%20%EC%9B%B9%ED%8C%A9%EC%9D%98%20%EB%8C%80%ED%95%AD%EB%A7%88%2C%20%ED%84%B0%EB%B3%B4%ED%8C%A9%EC%9D%98%20%EB%93%B1%EC%9E%A5%28beta%29.md)
     - [11.5 서버 액션(alpha).md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/11%20Next.js%2013%EA%B3%BC%20%EB%A6%AC%EC%95%A1%ED%8A%B8%2018/11.5%20%EC%84%9C%EB%B2%84%20%EC%95%A1%EC%85%98%28alpha%29.md)
     - [11.6 그 밖의 변화.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/11%20Next.js%2013%EA%B3%BC%20%EB%A6%AC%EC%95%A1%ED%8A%B8%2018/11.6%20%EA%B7%B8%20%EB%B0%96%EC%9D%98%20%EB%B3%80%ED%99%94.md)
+- 12 모든 웹 개발자가 관심을 가져야 할 핵심 웹 지표
+    - [12.1~3 웹사이트와 성능 | 핵심 웹 지표란? | 최대 콘텐츠풀 페인트(LCP).md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/12%20%EB%AA%A8%EB%93%A0%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EA%B4%80%EC%8B%AC%EC%9D%84%20%EA%B0%80%EC%A0%B8%EC%95%BC%20%ED%95%A0%20%ED%95%B5%EC%8B%AC%20%EC%9B%B9%20%EC%A7%80%ED%91%9C/12.1~3%20%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%99%80%20%EC%84%B1%EB%8A%A5%20%7C%20%ED%95%B5%EC%8B%AC%20%EC%9B%B9%20%EC%A7%80%ED%91%9C%EB%9E%80%3F%20%7C%20%EC%B5%9C%EB%8C%80%20%EC%BD%98%ED%85%90%EC%B8%A0%ED%92%80%20%ED%8E%98%EC%9D%B8%ED%8A%B8%28LCP%29.md)
 
 <!-- FOLDER_STRUCTURE_END -->
