@@ -59,5 +59,6 @@
     - [12.5~6 누적 레이아웃 이동(CLS) | 정리.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/12%20%EB%AA%A8%EB%93%A0%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EA%B4%80%EC%8B%AC%EC%9D%84%20%EA%B0%80%EC%A0%B8%EC%95%BC%20%ED%95%A0%20%ED%95%B5%EC%8B%AC%20%EC%9B%B9%20%EC%A7%80%ED%91%9C/12.5~6%20%EB%88%84%EC%A0%81%20%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83%20%EC%9D%B4%EB%8F%99%28CLS%29%20%7C%20%EC%A0%95%EB%A6%AC.md)
 - 13 웹페이지의 성능을 측정하는 다양한 방법
     - [13.1 애플리케이션에서 확인하기.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/13%20%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80%EC%9D%98%20%EC%84%B1%EB%8A%A5%EC%9D%84%20%EC%B8%A1%EC%A0%95%ED%95%98%EB%8A%94%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%B0%A9%EB%B2%95/13.1%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%97%90%EC%84%9C%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.md)
+    - [13.2 구글 라이트하우스.md](https://github.com/Jungle-JavaScript-Study/react-deep-dive/blob/main/13%20%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80%EC%9D%98%20%EC%84%B1%EB%8A%A5%EC%9D%84%20%EC%B8%A1%EC%A0%95%ED%95%98%EB%8A%94%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%B0%A9%EB%B2%95/13.2%20%EA%B5%AC%EA%B8%80%20%EB%9D%BC%EC%9D%B4%ED%8A%B8%ED%95%98%EC%9A%B0%EC%8A%A4.md)
 
 <!-- FOLDER_STRUCTURE_END -->
